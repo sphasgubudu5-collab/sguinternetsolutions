@@ -1,0 +1,12 @@
+.nav { 
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    background-color: grey;
+    color: white;
+    padding: 10px; 
+    text-decoration: none; 
+}
+
+.nav:hover{ 
+    background-color: rgb(212, 63, 63);
+
+}
